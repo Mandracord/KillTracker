@@ -5,7 +5,10 @@ An addon to track kills for Chaosbringer and Deathbringer to unlock DRK job.
 ## How it works
 
 The addon tracks if you have Chaosbringer or Deathbringer equipped and kills a mob and tracks the kills for you. 
-Do note - The addon do not track if you kill with other methods i.e magic. For the quest to progress you need to physically killed the enemy and cannot be done in group.
+
+Do note - The addon do not track if you kill with other methods i.e magic. 
+
+For the quest to progress you need to physically killed the enemy and cannot be done in group.
 
 ## Commands
 
